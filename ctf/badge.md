@@ -5,6 +5,11 @@ a3Jpc3RpbiAmIGovc2ggd2VyZSBoZXJDi
 
 ## Badge
 
+MAC Address: `6C:7E:67:BA:B1:99`
+
+
+6C:7E:67:BA:B1:99  harold              Infra  6     130 Mbit/s  47▂▄__  WPA2
+
 ROT13 cipher
 encoded: `unpx gur cynarg`
 decoded:  `hack the planet`
