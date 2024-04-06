@@ -1,7 +1,7 @@
 # Badge Challenge
 
 ## Lanyard
-a3Jpc3RpbiAmI
+a3Jpc3RpbiAmIGovc2ggd2VyZSBoZXJDi
 
 ## Badge
 
